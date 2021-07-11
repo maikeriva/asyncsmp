@@ -2,6 +2,8 @@
 [![Gitter](https://badges.gitter.im/asyncsmp/community.svg)](https://gitter.im/asyncsmp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Welcome to AsyncSMP!
 
+[![Join the chat at https://gitter.im/asyncsmp/community](https://badges.gitter.im/asyncsmp/community.svg)](https://gitter.im/asyncsmp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 AsyncSMP is a tiny framework for developing asynchronous and multithreaded applications on top of multicore FreeRTOS SMP variants such as ESP-IDF. When used alongside a specific set of design patterns, asyncsmp can greatly simplify the development of thread-safe and responsive applications while making full use of all available cores.
 
 Some of the advantages provided include:
