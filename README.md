@@ -1,5 +1,8 @@
 [![Documentation Status](https://readthedocs.org/projects/asyncsmp/badge/?version=latest)](https://asyncsmp.readthedocs.io/en/latest/?badge=latest)
-[![Gitter](https://badges.gitter.im/asyncsmp/community.svg)](https://gitter.im/asyncsmp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+# THIS PROJECT IS DEPRECATED
+AsyncSMP has been deprecated in favor of [AsyncRTOS](https://github.com/maikeriva/asyncrtos), which can be considered its heir. Use that instead.
+
 # Welcome to AsyncSMP!
 
 AsyncSMP is a tiny framework for developing asynchronous and multithreaded applications on top of multicore FreeRTOS SMP variants such as ESP-IDF. When used alongside a specific set of design patterns, asyncsmp can greatly simplify the development of thread-safe and responsive applications while making full use of all available cores.
@@ -20,7 +23,3 @@ Currently asyncsmp supports ESP-IDF, but should be drop-in compatible with other
 ## How do I get started?
 
 Read the documentation on [Read the Docs](https://asyncsmp.readthedocs.io/en/latest/).
-
-## How do I contribute?
-
-Feel free to open an issue on Github or get in touch on [Gitter](https://gitter.im/asyncsmp/community).
